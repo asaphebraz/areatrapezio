@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Trapezio
+comment1.params=baseMaior\ baseMenor\ altura
+comment1.target=Trapezio(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcularArea()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
